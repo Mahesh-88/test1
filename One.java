@@ -1,5 +1,5 @@
 class One{
-    public static void main(String[] ssmb){
+    public static void main(String[] super){
         System.out.println("Hello World");
         System.out.println("Welcome to Java Programming");
         System.out.println("........");
@@ -8,7 +8,7 @@ class One{
         System.out.println("Welcome to Java Programming");
         System.out.println("coding is fun");
         System.out.println("Hello World");
-        System.out.println("Welco    me to Ja      va Programming");
+        System.out.println("Welcome to Java Programming");
         System.out.println("coding is fun");
 
         //addition of two nums
@@ -20,8 +20,7 @@ class One{
         //addition of two nums
         int a=10;
         int b=10;
-        int c=a-b;
-        System.out.println("the sub of a and b is "+c);
-        System.out.println("super");
+        int c=a*b;
+        System.out.println("the mul of a anddddddd b is "+c);
     }
 }
