@@ -8,7 +8,7 @@ class One{
         System.out.println("Welcome to Java Programming");
         System.out.println("coding is fun");
         System.out.println("Hello World");
-        System.out.println("Welcome to Java Programming");
+        System.out.println("Welco    me to Ja      va Programming");
         System.out.println("coding is fun");
 
         //addition of two nums
