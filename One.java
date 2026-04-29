@@ -19,6 +19,7 @@ class One{
         int b=10;
 
         int c=a+b;
+
         System.out.println("the sum of a and b is "+c);
 
         //addition of two nums
