@@ -15,6 +15,7 @@ class One{
 
         //addition of two nums
         int a=10;
+
         int b=10;
         int c=a+b;
         System.out.println("the sum of a and b is "+c);
