@@ -21,6 +21,6 @@ class One{
         int a=10;
         int b=10;
         int c=a*b;
-        System.out.println("the mul of a and b is "+c);
+        System.out.println("the mul of a a b is "+c);
     }
 }
