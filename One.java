@@ -1,5 +1,5 @@
 class One{
-    public static void main(String[] args){
+    public static void main(String[] super){
         System.out.println("Hello World");
         System.out.println("Welcome to Java Programming");
         System.out.println("........");
